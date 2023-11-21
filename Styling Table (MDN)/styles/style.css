@@ -1,0 +1,24 @@
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+tfoot th, tfoot td {
+  border-top: 1px solid black;
+}
+
+th,td {
+  padding: 0.3em;
+  text-align: left;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #eee;
+}
+
+td.numeric {
+  text-align: right;
+}
+

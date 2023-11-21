@@ -1,0 +1,22 @@
+html {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Your CSS below here */
+
+div {
+  
+  border: 2px solid black;
+  border-radius: 10%;
+  width: 200px;
+  height: 100px;
+  margin: auto;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0) 20%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.2));
+  background-color: red;
+  font-size: 17px;
+  text-align: center;
+  padding: 50px 10px 10px 10px;
+  box-shadow: 6px 6px 2px 2px;
+  
+}
+
