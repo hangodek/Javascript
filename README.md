@@ -1,3 +1,3 @@
-# Javascript
+# Javascript,Html,Css
 
-All my stuff and exercise related to Javascript will be here
+All my stuff and exercise related to Javascript,Html, and Css will be here
