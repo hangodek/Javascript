@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  padding: 30px;
+  width: 50%;
+  background-color: #ffbb00;
+}
+
+.center-image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
